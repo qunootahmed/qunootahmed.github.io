@@ -18,6 +18,15 @@
         allowfullscreen="" style="border:0px"></iframe>
     <script id="zeacon-sdk-correlation-manager" type="text/javascript"
         src="https://licencetotest.com/sdk/correlation-manager/bundle.js"></script>
+
+        <script>
+            // Extract the page query parameter from the URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const page = urlParams.get('page') || 1; // Default to page 1 if no parameter is present
+            
+            // Display the content dynamically based on the page number
+            document.getElementById("content").innerText = `You are on page ${page}`;
+        </script>
 </body>
 
 </html>
