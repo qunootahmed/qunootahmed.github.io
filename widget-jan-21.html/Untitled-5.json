@@ -1,0 +1,412 @@
+{
+    "status": "success",
+    "statusCode": "200 OK",
+    "message": "Embedded video players fetched - successful",
+    "responseData": [
+        {
+            "uuid": "2d7dcf73-8c78-4547-adf2-f2481be8513d",
+            "name": "Embedded Player for stream or playlist",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0f39b8",
+            "showIcon": true,
+            "creationDate": 1738653242000,
+            "modificationDate": 1738653319000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "For colors site"
+        },
+        {
+            "uuid": "e908370f-be03-442d-b8c5-edca30d7cecf",
+            "name": "assign empty playlist",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0d3696",
+            "showIcon": true,
+            "creationDate": 1738570721000,
+            "modificationDate": 1738662027000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "For colors site"
+        },
+        {
+            "uuid": "3d7c2e6d-0088-4a93-a37c-d8ddbbf5d415",
+            "name": "31st Jan '25 NEW",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1738333874000,
+            "modificationDate": 1738648546000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "For colors site"
+        },
+        {
+            "uuid": "161f0951-6f3a-4f6f-9c5d-9a9b1720f189",
+            "name": "31st January",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1738331349000,
+            "modificationDate": 1738645967000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": {
+                "streamId": "7384a621a1e",
+                "sessionId": null,
+                "name": "FULL EPISODE - Shadow of Courage",
+                "description": "Dr. Le Quack - Courage the Cowardly Dog",
+                "category": "VOD",
+                "eventStart": 1737611809718,
+                "accessVisibility": "POSTED",
+                "photos": [
+                    "1737709567_courage-video.jpg"
+                ],
+                "vodUrl": "s3://zeacon-qa-media-files/hls/352a01d999294a009e521a76f94af2c4/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                                "uuid": "430dd412-0883-4b18-900d-58a1e9e54231",
+                                "name": "youtube Hg",
+                                "url": "https://www.youtube.com",
+                                "defaultPath": "gsmarena_000_1732511502102.jpg",
+                                "hoverPath": "gsmarena_000_1732511507943.jpg",
+                                "addToLiveStream": null,
+                                "modifiedAt": null,
+                                "createdAt": 1737726841090,
+                                "isDefault": null,
+                                "dropTimestamp": null,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": null,
+                                "style": {
+                                    "top": "0",
+                                    "left": "87.66603415559773",
+                                    "maxWidth": null,
+                                    "height": "11.11111111111111",
+                                    "width": "11.195445920303605",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "235f6891-41d4-4bf0-b54b-0b12614ed45b",
+                                "start": "0",
+                                "end": "60"
+                            }
+                        }
+                    ]
+                },
+                "cta": "https://cartoons-on.firebaseapp.com",
+                "organizer": {
+                    "id": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                    "businessName": null,
+                    "legalFirstName": null,
+                    "imageUrl": null,
+                    "description": null
+                },
+                "accessKey": "MTczNzYxMTgwOTcxN183Mzg0YTYyMWExZQ==",
+                "archiveId": "352a01d999294a009e521a76f94af2c4",
+                "archiveName": "FULL_EPISODE__Shadow_of_Courage_Dr._Le_Quack___Courage_the_Cowardly_Dog___Cartoon_Network_1737611450261.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            },
+            "playlistId": null,
+            "playlistStreamPriorityNo": null,
+            "playlistName": null
+        },
+        {
+            "uuid": "b0a3c700-8b7a-484f-9e96-e3a5e4d16113",
+            "name": "Nothing",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1738321168000,
+            "modificationDate": 1738331540000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "cd35babc-4de9-45d1-a7cd-82daf6947a80",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "Cypress Tutorials"
+        },
+        {
+            "uuid": "ab92140d-0728-4a83-9cd9-7b0cf84c00cf",
+            "name": "empty",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1738042446000,
+            "modificationDate": 1738645981000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": {
+                "streamId": "7384a621a1e",
+                "sessionId": null,
+                "name": "FULL EPISODE - Shadow of Courage",
+                "description": "Dr. Le Quack - Courage the Cowardly Dog",
+                "category": "VOD",
+                "eventStart": 1737611809718,
+                "accessVisibility": "POSTED",
+                "photos": [
+                    "1737709567_courage-video.jpg"
+                ],
+                "vodUrl": "s3://zeacon-qa-media-files/hls/352a01d999294a009e521a76f94af2c4/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                                "uuid": "430dd412-0883-4b18-900d-58a1e9e54231",
+                                "name": "youtube Hg",
+                                "url": "https://www.youtube.com",
+                                "defaultPath": "gsmarena_000_1732511502102.jpg",
+                                "hoverPath": "gsmarena_000_1732511507943.jpg",
+                                "addToLiveStream": null,
+                                "modifiedAt": null,
+                                "createdAt": 1737726841090,
+                                "isDefault": null,
+                                "dropTimestamp": null,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": null,
+                                "style": {
+                                    "top": "0",
+                                    "left": "87.66603415559773",
+                                    "maxWidth": null,
+                                    "height": "11.11111111111111",
+                                    "width": "11.195445920303605",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "235f6891-41d4-4bf0-b54b-0b12614ed45b",
+                                "start": "0",
+                                "end": "60"
+                            }
+                        }
+                    ]
+                },
+                "cta": "https://cartoons-on.firebaseapp.com",
+                "organizer": {
+                    "id": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                    "businessName": null,
+                    "legalFirstName": null,
+                    "imageUrl": null,
+                    "description": null
+                },
+                "accessKey": "MTczNzYxMTgwOTcxN183Mzg0YTYyMWExZQ==",
+                "archiveId": "352a01d999294a009e521a76f94af2c4",
+                "archiveName": "FULL_EPISODE__Shadow_of_Courage_Dr._Le_Quack___Courage_the_Cowardly_Dog___Cartoon_Network_1737611450261.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            },
+            "playlistId": null,
+            "playlistStreamPriorityNo": null,
+            "playlistName": null
+        },
+        {
+            "uuid": "61fa3dd8-0254-4b45-b10d-ce78cdefc255",
+            "name": "for playlist",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1737994218000,
+            "modificationDate": 1737994258000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "46318fd3-a832-419f-a962-116b76f778e1",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "My Favorite Songs"
+        },
+        {
+            "uuid": "b66128fa-9a1e-4355-bea2-521ef0f4c331",
+            "name": "hello",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1737463671000,
+            "modificationDate": 1738319658000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": {
+                "streamId": "7384a621a1e",
+                "sessionId": null,
+                "name": "FULL EPISODE - Shadow of Courage",
+                "description": "Dr. Le Quack - Courage the Cowardly Dog",
+                "category": "VOD",
+                "eventStart": 1737611809718,
+                "accessVisibility": "POSTED",
+                "photos": [
+                    "1737709567_courage-video.jpg"
+                ],
+                "vodUrl": "s3://zeacon-qa-media-files/hls/352a01d999294a009e521a76f94af2c4/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                                "uuid": "430dd412-0883-4b18-900d-58a1e9e54231",
+                                "name": "youtube Hg",
+                                "url": "https://www.youtube.com",
+                                "defaultPath": "gsmarena_000_1732511502102.jpg",
+                                "hoverPath": "gsmarena_000_1732511507943.jpg",
+                                "addToLiveStream": null,
+                                "modifiedAt": null,
+                                "createdAt": 1737726841090,
+                                "isDefault": null,
+                                "dropTimestamp": null,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": null,
+                                "style": {
+                                    "top": "0",
+                                    "left": "87.66603415559773",
+                                    "maxWidth": null,
+                                    "height": "11.11111111111111",
+                                    "width": "11.195445920303605",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "235f6891-41d4-4bf0-b54b-0b12614ed45b",
+                                "start": "0",
+                                "end": "60"
+                            }
+                        }
+                    ]
+                },
+                "cta": "https://cartoons-on.firebaseapp.com",
+                "organizer": {
+                    "id": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+                    "businessName": null,
+                    "legalFirstName": null,
+                    "imageUrl": null,
+                    "description": null
+                },
+                "accessKey": "MTczNzYxMTgwOTcxN183Mzg0YTYyMWExZQ==",
+                "archiveId": "352a01d999294a009e521a76f94af2c4",
+                "archiveName": "FULL_EPISODE__Shadow_of_Courage_Dr._Le_Quack___Courage_the_Cowardly_Dog___Cartoon_Network_1737611450261.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            },
+            "playlistId": null,
+            "playlistStreamPriorityNo": null,
+            "playlistName": null
+        },
+        {
+            "uuid": "62792349-9430-46b5-9e08-2d42a55e90b9",
+            "name": "for captions",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1736933821000,
+            "modificationDate": 1738054164000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "Qunoot_286"
+        },
+        {
+            "uuid": "1720e9f8-78ec-40bc-9c57-5002ec58564d",
+            "name": "new",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1735197071000,
+            "modificationDate": 1738666012000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": null,
+            "playlistStreamPriorityNo": null,
+            "playlistName": null
+        },
+        {
+            "uuid": "5b31434d-237a-430a-a239-8a19addfc947",
+            "name": "Player for HD video",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "63066a",
+            "showIcon": true,
+            "creationDate": 1733824992000,
+            "modificationDate": 1738055068000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "Qunoot_286"
+        },
+        {
+            "uuid": "ea0559fa-9ccb-44c6-8c3f-d7db2692689a",
+            "name": "One player",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "5b3fe4",
+            "showIcon": true,
+            "creationDate": 1732210075000,
+            "modificationDate": 1738053646000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamId": null,
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistStreamPriorityNo": null,
+            "playlistName": "Qunoot_286"
+        }
+    ]
+}

@@ -1,0 +1,1351 @@
+{
+    "status": "success",
+    "statusCode": "200 OK",
+    "message": "Embedded video players fetched - successful",
+    "responseData": [
+        {
+            "uuid": "8f1e7a77-df28-4eb1-8d58-4ee1665bacab",
+            "name": "Player Embed for November 27th",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "070d64",
+            "showIcon": true,
+            "creationDate": 1732698024000,
+            "modificationDate": 1732698038000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "a7f47eb4a42",
+            "streamDetails": {
+                "streamId": "a7f47eb4a42",
+                "sessionId": null,
+                "name": "100 Laws of Life",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1732697360572,
+                "accessVisibility": "POSTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/0a14206b53b94e7ca4cd1a185dd881d8/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTczMjY5NzM2MDU3Ml9hN2Y0N2ViNGE0Mg==",
+                "archiveId": "0a14206b53b94e7ca4cd1a185dd881d8",
+                "archiveName": "100_Laws_of_Life_so_You_Don_t_Screw_Your_Life_Up_Like_I_Did_1732697218032.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "3203da7f-06d8-4e74-b875-65b5d6afa0b4",
+            "name": "26th September",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0a2c7b",
+            "showIcon": true,
+            "creationDate": 1727343308000,
+            "modificationDate": 1732696730000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "4de9ab7abc4",
+            "streamDetails": {
+                "streamId": "4de9ab7abc4",
+                "sessionId": null,
+                "name": "How to sleep well",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1730104221225,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/3222155f5acf447f8bb7f293ffa1118e/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTczMDEwNDIyMTIxNF80ZGU5YWI3YWJjNA==",
+                "archiveId": "3222155f5acf447f8bb7f293ffa1118e",
+                "archiveName": "What_happens_when_we_sleep__1730103970648.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "3c388369-8f9f-4148-8920-b09caddb3a04",
+            "name": "New player 2.19.1",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": true,
+            "logo": false,
+            "playerColor": "12455e",
+            "showIcon": false,
+            "creationDate": 1724662420000,
+            "modificationDate": 1731584173000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "4de9ab7abc4",
+            "streamDetails": {
+                "streamId": "4de9ab7abc4",
+                "sessionId": null,
+                "name": "How to sleep well",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1730104221225,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/3222155f5acf447f8bb7f293ffa1118e/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTczMDEwNDIyMTIxNF80ZGU5YWI3YWJjNA==",
+                "archiveId": "3222155f5acf447f8bb7f293ffa1118e",
+                "archiveName": "What_happens_when_we_sleep__1730103970648.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "9a87700d-5943-4502-a242-428e03de5a81",
+            "name": "all uncheck",
+            "autoPlay": false,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": false,
+            "playerColor": "ffffff",
+            "showIcon": false,
+            "creationDate": 1724429986000,
+            "modificationDate": 1724430018000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "f50e370e4ef",
+            "streamDetails": {
+                "streamId": "f50e370e4ef",
+                "sessionId": null,
+                "name": "Life Hacks by Khaby Lame",
+                "description": "hello there, check out the wonderful life hacks by the one and only khaby lame",
+                "category": "VOD",
+                "eventStart": 1723020904729,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/25758ea6b8d44c6e99e14edb902706bf/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "9a866575-d3d9-41a9-a2b2-6bf9d4ed3296",
+                                "name": "FB",
+                                "url": "www.facebook.com",
+                                "defaultPath": "Facebook-logo_1663665780078.png",
+                                "hoverPath": "Facebook-logo_1663665783081.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1723020062054,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "1.9823788546255507",
+                                    "left": "87.11276332094175",
+                                    "maxWidth": null,
+                                    "height": "12.995594713656388",
+                                    "width": "11.400247831474598",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "ae46db40-4f62-4dad-9fcc-0235eeeb40a7",
+                                "start": "0",
+                                "end": "60"
+                            }
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcyMzAyMDkwNDcyOV9mNTBlMzcwZTRlZg==",
+                "archiveId": "25758ea6b8d44c6e99e14edb902706bf",
+                "archiveName": "LIFE_HACKS___KHABY_LAME_\uD83E\uDD23___Funny_life_Hack_Tiktok_compilations_1723020688144.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "6af95714-4021-46dc-b126-f0b9d30df498",
+            "name": "Player name is updated",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "8014c8",
+            "showIcon": true,
+            "creationDate": 1723020855000,
+            "modificationDate": 1731492888000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "1bf5c3fa158",
+            "streamDetails": {
+                "streamId": "1bf5c3fa158",
+                "sessionId": "1_MX40NjkwOTA1NH5-MTczMTQxMjA0MjUwMX5oVWNjdTVhc1pKdUhEQzhULzZVUWJKeTl-fn4",
+                "name": "hello testing...",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1731481200000,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/97f0b2d5-9bd9-41c3-b7b8-8ca2b1302091/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "b19893c3-88ba-4de8-b726-ad1e59e0751c",
+                                "name": "fb",
+                                "url": "www.facebook.com",
+                                "defaultPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920294142.png",
+                                "hoverPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920298195.png",
+                                "addToLiveStream": null,
+                                "modifiedAt": null,
+                                "createdAt": 1732513488250,
+                                "isDefault": null,
+                                "dropTimestamp": null,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": null,
+                                "style": {
+                                    "top": "12.334801762114537",
+                                    "left": "82.8996282527881",
+                                    "maxWidth": null,
+                                    "height": "11.233480176211454",
+                                    "width": "11.152416356877323",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "47697f9d-4bf2-4a5a-8fb4-487be8a44de6",
+                                "start": "0",
+                                "end": "42.40008312"
+                            }
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTczMTQxMjA0MzI4MF8xYmY1YzNmYTE1OA==",
+                "archiveId": "97f0b2d5-9bd9-41c3-b7b8-8ca2b1302091",
+                "archiveName": "hello testing... 11-12-2024 16:49 PM",
+                "streamArchiveType": "ARCHIVE",
+                "streamStatus": "EXPIRED"
+            }
+        },
+        {
+            "uuid": "4462c771-0749-4bc6-b0fa-6b7be086a196",
+            "name": "No video assigned to player",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "51d912",
+            "showIcon": true,
+            "creationDate": 1718884344000,
+            "modificationDate": 1731492888000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "1bf5c3fa158",
+            "streamDetails": {
+                "streamId": "1bf5c3fa158",
+                "sessionId": "1_MX40NjkwOTA1NH5-MTczMTQxMjA0MjUwMX5oVWNjdTVhc1pKdUhEQzhULzZVUWJKeTl-fn4",
+                "name": "hello testing...",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1731481200000,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/97f0b2d5-9bd9-41c3-b7b8-8ca2b1302091/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "b19893c3-88ba-4de8-b726-ad1e59e0751c",
+                                "name": "fb",
+                                "url": "www.facebook.com",
+                                "defaultPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920294142.png",
+                                "hoverPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920298195.png",
+                                "addToLiveStream": null,
+                                "modifiedAt": null,
+                                "createdAt": 1732513488250,
+                                "isDefault": null,
+                                "dropTimestamp": null,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": null,
+                                "style": {
+                                    "top": "12.334801762114537",
+                                    "left": "82.8996282527881",
+                                    "maxWidth": null,
+                                    "height": "11.233480176211454",
+                                    "width": "11.152416356877323",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "47697f9d-4bf2-4a5a-8fb4-487be8a44de6",
+                                "start": "0",
+                                "end": "42.40008312"
+                            }
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTczMTQxMjA0MzI4MF8xYmY1YzNmYTE1OA==",
+                "archiveId": "97f0b2d5-9bd9-41c3-b7b8-8ca2b1302091",
+                "archiveName": "hello testing... 11-12-2024 16:49 PM",
+                "streamArchiveType": "ARCHIVE",
+                "streamStatus": "EXPIRED"
+            }
+        },
+        {
+            "uuid": "32a8d480-66a5-4681-a991-cac82baa6ddf",
+            "name": "Books",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0c14ed",
+            "showIcon": true,
+            "creationDate": 1718174283000,
+            "modificationDate": 1718174466000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "f1c7f3eaee5",
+            "streamDetails": {
+                "streamId": "f1c7f3eaee5",
+                "sessionId": null,
+                "name": "Books have changed my life by Elif Shafak",
+                "description": "How books have changed the life of renowned Turkish Author Elif Shafak... Find out now!",
+                "category": "VOD",
+                "eventStart": 1718174264586,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/bc0335a5a23f4fefa8aa40f9cb9e104c/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxODE3NDI2NDU4Nl9mMWM3ZjNlYWVlNQ==",
+                "archiveId": "bc0335a5a23f4fefa8aa40f9cb9e104c",
+                "archiveName": "_Books_have_changed_my_life.____Writer_Elif_Shafak___Louisiana_Channel_1718174024208.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "2639e6c6-16cd-45f4-829d-db521828fcc5",
+            "name": "Player 20th may",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "a513cd",
+            "showIcon": true,
+            "creationDate": 1716198685000,
+            "modificationDate": 1716215610000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "7c36fdaaeb7",
+            "streamDetails": {
+                "streamId": "7c36fdaaeb7",
+                "sessionId": null,
+                "name": "How to overcome your mistakes",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1716203170408,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/827006490e7641efb8c462123d0a15bc/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxNjIwMzE3MDQwOF83YzM2ZmRhYWViNw==",
+                "archiveId": "827006490e7641efb8c462123d0a15bc",
+                "archiveName": "How_to_overcome_your_mistakes_1716203121318.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "5250e34c-6eac-458c-b01a-b8c77ac54937",
+            "name": "13th May",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "5614f0",
+            "showIcon": true,
+            "creationDate": 1715610987000,
+            "modificationDate": 1715611010000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "3b25adbe5ea",
+            "streamDetails": {
+                "streamId": "3b25adbe5ea",
+                "sessionId": null,
+                "name": "HP check embed",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1715610430820,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/ff3749f3874246119e29657792004a4d/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxNTYxMDQzMDgyMF8zYjI1YWRiZTVlYQ==",
+                "archiveId": "ff3749f3874246119e29657792004a4d",
+                "archiveName": "A_First_Encounter___Harry_Potter_and_the_Philosopher_s_Stone_1715610403480.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "4d23f100-8960-44d7-9047-565d628a1e5a",
+            "name": "16th april",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "f5e505",
+            "showIcon": true,
+            "creationDate": 1713255666000,
+            "modificationDate": 1713255777000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "359dec725e5",
+            "streamDetails": {
+                "streamId": "359dec725e5",
+                "sessionId": null,
+                "name": "16th april - prod - parallel test",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1713255766414,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/d25a416be6a449fabc1acb3cd6576357/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMzI1NTc2NjQxNF8zNTlkZWM3MjVlNQ==",
+                "archiveId": "d25a416be6a449fabc1acb3cd6576357",
+                "archiveName": "spiderman123_1713255641050.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "5ac59d08-cce0-4bb3-8902-e911035fd853",
+            "name": "15th april",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "1666d0",
+            "showIcon": true,
+            "creationDate": 1713182020000,
+            "modificationDate": 1713182045000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "aa7a44e2b56",
+            "streamDetails": {
+                "streamId": "aa7a44e2b56",
+                "sessionId": null,
+                "name": "Beats pro - April 15 - after keys updated",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1713181995498,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/706ac39a1a8148789a06670f797042a5/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMzE4MTk5NTQ5OF9hYTdhNDRlMmI1Ng==",
+                "archiveId": "706ac39a1a8148789a06670f797042a5",
+                "archiveName": "Beats_Fit_Pro_Buds_Review_1713181899693.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "3b9bee53-87ae-4756-860e-792881fa2f75",
+            "name": "9th april - 2",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0b1bf4",
+            "showIcon": true,
+            "creationDate": 1712658892000,
+            "modificationDate": 1712658910000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "ebd6f3040d4",
+            "streamDetails": {
+                "streamId": "ebd6f3040d4",
+                "sessionId": null,
+                "name": "Views",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1712658871389,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/1ee2eefb7675445383ddfce4e4a9c1cb/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMjY1ODg3MTM4OV9lYmQ2ZjMwNDBkNA==",
+                "archiveId": "1ee2eefb7675445383ddfce4e4a9c1cb",
+                "archiveName": "Best_of_Dolby_Vision_12K_HDR_120fps_1712658522404.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "4c91e46d-60a2-4cd8-a664-56b499d9cda1",
+            "name": "Player for April 9th",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "1bed0c",
+            "showIcon": true,
+            "creationDate": 1712649458000,
+            "modificationDate": 1716276460000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "2338190eace",
+            "streamDetails": {
+                "streamId": "2338190eace",
+                "sessionId": null,
+                "name": "Why does Japan work so hard CNBC Explains",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1712649308817,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/38610f1af69943a6b5ca9ce967d253e6/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMjY0OTMwODgxN18yMzM4MTkwZWFjZQ==",
+                "archiveId": "38610f1af69943a6b5ca9ce967d253e6",
+                "archiveName": "Why_does_Japan_work_so_hard_CNBC_Explains_1712649128825.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "0d1c4d76-5e70-453b-b732-e9a1200b1f8f",
+            "name": "For March 21 Prod test",
+            "autoPlay": false,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "51dbd9",
+            "showIcon": true,
+            "creationDate": 1711005330000,
+            "modificationDate": 1711007810000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "3c8e13253c6",
+            "streamDetails": {
+                "streamId": "3c8e13253c6",
+                "sessionId": null,
+                "name": "21st March - NBA",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1711005947070,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/4ea0eff158d247cbacba81ef285664ad/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMTAwNTk0NzA3MF8zYzhlMTMyNTNjNg==",
+                "archiveId": "4ea0eff158d247cbacba81ef285664ad",
+                "archiveName": "The_BEST_Plays_of_the_2019_NBA_Finals___Presented_by_YouTubeTV_1711005376797.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "2aa920d3-8023-44a3-b2b1-7720cb4e93bd",
+            "name": "March 12th",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "09dc6f",
+            "showIcon": true,
+            "creationDate": 1710237786000,
+            "modificationDate": 1710237850000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "388a0c94e83",
+            "streamDetails": {
+                "streamId": "388a0c94e83",
+                "sessionId": "2_MX40NjkwOTA1NH5-MTcxMDIzNzI1NTQ3Mn5WVWh6bzRUWVlmUVZTUXpJU3B4Q3B5cmR-fn4",
+                "name": "Live streaming on March 12th",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1710313200000,
+                "accessVisibility": "UNLISTED",
+                "photos": [
+                    "1710237270_aspectRatioEvolution_lauterbrunnen-1-1.jpg"
+                ],
+                "vodUrl": "s3://zeacon-live-archive/hls/19427c33-dac2-467a-8f44-1f7138a77936/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": 39,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "b19893c3-88ba-4de8-b726-ad1e59e0751c",
+                                "name": "fb",
+                                "url": "www.facebook.com",
+                                "defaultPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920294142.png",
+                                "hoverPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920298195.png",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289217,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "2.850877192982456",
+                                    "left": "86.54320987654322",
+                                    "maxWidth": null,
+                                    "height": "29.82456140350877",
+                                    "width": "11.11111111111111",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 42,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "b19893c3-88ba-4de8-b726-ad1e59e0751c",
+                                "name": "fb",
+                                "url": "www.facebook.com",
+                                "defaultPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920294142.png",
+                                "hoverPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920298195.png",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289217,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "2.850877192982456",
+                                    "left": "90.98765432098766",
+                                    "maxWidth": null,
+                                    "height": "15.350877192982457",
+                                    "width": "6.666666666666667",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 47,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289218,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "66.66666666666666",
+                                    "left": "68.14814814814815",
+                                    "maxWidth": null,
+                                    "height": "29.82456140350877",
+                                    "width": "29.876543209876544",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 50,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289218,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "85.96491228070175",
+                                    "left": "88.39506172839506",
+                                    "maxWidth": null,
+                                    "height": "10.307017543859649",
+                                    "width": "9.506172839506172",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 315,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "b19893c3-88ba-4de8-b726-ad1e59e0751c",
+                                "name": "fb",
+                                "url": "www.facebook.com",
+                                "defaultPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920294142.png",
+                                "hoverPath": "107409_f-facebook-letter-logo-logotype_512x512_1705920298195.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289217,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "2.850877192982456",
+                                    "left": "86.54320987654322",
+                                    "maxWidth": null,
+                                    "height": "29.82456140350877",
+                                    "width": "11.11111111111111",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 337,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289218,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "19.736842105263158",
+                                    "left": "86.41975308641975",
+                                    "maxWidth": null,
+                                    "height": "10.307017543859649",
+                                    "width": "9.506172839506172",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        },
+                        {
+                            "playbackTime": 339,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": true,
+                                "modifiedAt": null,
+                                "createdAt": 1710237289218,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": 0,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "23.026315789473685",
+                                    "left": "87.4074074074074",
+                                    "maxWidth": null,
+                                    "height": "7.017543859649122",
+                                    "width": "8.395061728395062",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": null
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcxMDIzNzI1NjEwOV8zODhhMGM5NGU4Mw==",
+                "archiveId": "19427c33-dac2-467a-8f44-1f7138a77936",
+                "archiveName": "Live streaming on March 12th 03-12-2024 15:05 PM",
+                "streamArchiveType": "ARCHIVE",
+                "streamStatus": "EXPIRED"
+            }
+        },
+        {
+            "uuid": "a547b8a7-776c-4c0d-8ceb-05588c6c0ece",
+            "name": "Fixed width player",
+            "autoPlay": false,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": false,
+            "playerColor": "ffffff",
+            "showIcon": false,
+            "creationDate": 1705930478000,
+            "modificationDate": 1706264790000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "25ad6d3c0ac",
+            "streamDetails": {
+                "streamId": "25ad6d3c0ac",
+                "sessionId": null,
+                "name": "Views for Analytics",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1701258547248,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/48cebb8b97c44e7aa1936d1a20856b43/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "7cc2b609-855b-42ae-a870-76bd3140fd41",
+                                "name": "FB",
+                                "url": "www.facebook.com",
+                                "defaultPath": "Facebook-logo_1672741077844.png",
+                                "hoverPath": "Facebook-logo_1672741080302.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "5.286343612334802",
+                                    "left": "86.86493184634449",
+                                    "maxWidth": null,
+                                    "height": "13.43612334801762",
+                                    "width": "11.648079306071871",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "3966a81d-2141-460f-aaef-8eaee93b9ea3",
+                                "start": "0",
+                                "end": "15.3575223109616"
+                            }
+                        },
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "2.8634361233480177",
+                                    "left": "86.61710037174721",
+                                    "maxWidth": null,
+                                    "height": "10.13215859030837",
+                                    "width": "11.028500619578686",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "2c8964be-47e0-4ddf-b0a9-3eb2baf061ed",
+                                "start": "15.359141619514",
+                                "end": "30.716663930475605"
+                            }
+                        },
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "379bca14-90bf-4c16-970d-a273317d0a53",
+                                "name": "WHO - World Health Organization",
+                                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                                "defaultPath": "who01_1652273427880.png",
+                                "hoverPath": "who02_1652273430936.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "3.524229074889868",
+                                    "left": "87.11276332094175",
+                                    "maxWidth": null,
+                                    "height": "10.79295154185022",
+                                    "width": "11.152416356877323",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "efe91d46-93b2-445c-b8b6-d7e4731208a9",
+                                "start": "30.724907683105997",
+                                "end": "46.2424471210184"
+                            }
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcwMTI1ODU0NzI0OF8yNWFkNmQzYzBhYw==",
+                "archiveId": "48cebb8b97c44e7aa1936d1a20856b43",
+                "archiveName": "Best_of_Dolby_Vision_12K_HDR_120fps_1701257602265.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "129848f1-e42c-41f1-817b-a53ab666be9d",
+            "name": "Player Embed by Qunoot",
+            "autoPlay": false,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": false,
+            "playerColor": "eef207",
+            "showIcon": false,
+            "creationDate": 1705929654000,
+            "modificationDate": 1705931697000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "5b0436b5bf4",
+            "streamDetails": {
+                "streamId": "5b0436b5bf4",
+                "sessionId": "1_MX40NjkwOTA1NH5-MTcwNTkzMTM5OTA2NX5sdmxPdC9RQStHbjNETVJ2YzFPSGVpVUV-fn4",
+                "name": "LIVE STREAM ON ZEACON",
+                "description": "",
+                "category": "LIVE",
+                "eventStart": 1705993200000,
+                "accessVisibility": "POSTED",
+                "photos": [
+                    "1705931583_aspectRatioEvolution_lauterbrunnen-1-1.jpg"
+                ],
+                "vodUrl": null,
+                "metadata": null,
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcwNTkzMTM5OTgwNV81YjA0MzZiNWJmNA==",
+                "archiveId": null,
+                "archiveName": null,
+                "streamArchiveType": null,
+                "streamStatus": "EXPIRED"
+            }
+        },
+        {
+            "uuid": "dcf2872a-4ee2-4b75-b662-7bc851572f74",
+            "name": "Hide Controls",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": false,
+            "playerColor": "bd18c9",
+            "showIcon": false,
+            "creationDate": 1705921939000,
+            "modificationDate": 1705929341000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "25ad6d3c0ac",
+            "streamDetails": {
+                "streamId": "25ad6d3c0ac",
+                "sessionId": null,
+                "name": "Views for Analytics",
+                "description": "",
+                "category": "VOD",
+                "eventStart": 1701258547248,
+                "accessVisibility": "UNLISTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/48cebb8b97c44e7aa1936d1a20856b43/index.m3u8",
+                "metadata": {
+                    "metadataList": [
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "7cc2b609-855b-42ae-a870-76bd3140fd41",
+                                "name": "FB",
+                                "url": "www.facebook.com",
+                                "defaultPath": "Facebook-logo_1672741077844.png",
+                                "hoverPath": "Facebook-logo_1672741080302.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "5.286343612334802",
+                                    "left": "86.86493184634449",
+                                    "maxWidth": null,
+                                    "height": "13.43612334801762",
+                                    "width": "11.648079306071871",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "3966a81d-2141-460f-aaef-8eaee93b9ea3",
+                                "start": "0",
+                                "end": "15.3575223109616"
+                            }
+                        },
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "019b3dcf-182f-4013-aba5-76ce2769ae91",
+                                "name": "HG",
+                                "url": "https://studio.youtube.com/video/pRzlOekNGRE/livestreaming",
+                                "defaultPath": "gsmarena_000_1666607743544.jpg",
+                                "hoverPath": "gsmarena_000_1666607747406.jpg",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "2.8634361233480177",
+                                    "left": "86.61710037174721",
+                                    "maxWidth": null,
+                                    "height": "10.13215859030837",
+                                    "width": "11.028500619578686",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "2c8964be-47e0-4ddf-b0a9-3eb2baf061ed",
+                                "start": "15.359141619514",
+                                "end": "30.716663930475605"
+                            }
+                        },
+                        {
+                            "playbackTime": null,
+                            "widgetType": "hypergraphics",
+                            "widgetMetadata": {
+                                "businessId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                                "uuid": "379bca14-90bf-4c16-970d-a273317d0a53",
+                                "name": "WHO - World Health Organization",
+                                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                                "defaultPath": "who01_1652273427880.png",
+                                "hoverPath": "who02_1652273430936.png",
+                                "addToLiveStream": false,
+                                "modifiedAt": null,
+                                "createdAt": 1701257838588,
+                                "isDefault": null,
+                                "dropTimestamp": 0,
+                                "active": null,
+                                "key": null,
+                                "removeTimestamp": null,
+                                "hlsDisplay": false,
+                                "style": {
+                                    "top": "3.524229074889868",
+                                    "left": "87.11276332094175",
+                                    "maxWidth": null,
+                                    "height": "10.79295154185022",
+                                    "width": "11.152416356877323",
+                                    "customWidth": null
+                                }
+                            },
+                            "segment": {
+                                "id": "efe91d46-93b2-445c-b8b6-d7e4731208a9",
+                                "start": "30.724907683105997",
+                                "end": "46.2424471210184"
+                            }
+                        }
+                    ]
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcwMTI1ODU0NzI0OF8yNWFkNmQzYzBhYw==",
+                "archiveId": "48cebb8b97c44e7aa1936d1a20856b43",
+                "archiveName": "Best_of_Dolby_Vision_12K_HDR_120fps_1701257602265.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        },
+        {
+            "uuid": "d6c095bc-a21e-4f0b-83c9-12ddd6b60195",
+            "name": "Another Player for Streams",
+            "autoPlay": true,
+            "videoLoop": true,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "0de60a",
+            "showIcon": true,
+            "creationDate": 1705919335000,
+            "modificationDate": 1705931684000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "5b0436b5bf4",
+            "streamDetails": {
+                "streamId": "5b0436b5bf4",
+                "sessionId": "1_MX40NjkwOTA1NH5-MTcwNTkzMTM5OTA2NX5sdmxPdC9RQStHbjNETVJ2YzFPSGVpVUV-fn4",
+                "name": "LIVE STREAM ON ZEACON",
+                "description": "",
+                "category": "LIVE",
+                "eventStart": 1705993200000,
+                "accessVisibility": "POSTED",
+                "photos": [
+                    "1705931583_aspectRatioEvolution_lauterbrunnen-1-1.jpg"
+                ],
+                "vodUrl": null,
+                "metadata": null,
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcwNTkzMTM5OTgwNV81YjA0MzZiNWJmNA==",
+                "archiveId": null,
+                "archiveName": null,
+                "streamArchiveType": null,
+                "streamStatus": "EXPIRED"
+            }
+        },
+        {
+            "uuid": "788d2f46-b9c4-4ad7-a8ce-bcfd1ff5502e",
+            "name": "My First Player",
+            "autoPlay": true,
+            "videoLoop": false,
+            "hideControls": false,
+            "logo": true,
+            "playerColor": "ffffff",
+            "showIcon": true,
+            "creationDate": 1705918889000,
+            "modificationDate": 1705918920000,
+            "businessAccountId": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+            "streamId": "8fe30bf61ec",
+            "streamDetails": {
+                "streamId": "8fe30bf61ec",
+                "sessionId": null,
+                "name": "Street Food in Peshawar, Pakistan.",
+                "description": "GOLDEN PULAO Mountain \nCharsi Tikka Kabab",
+                "category": "VOD",
+                "eventStart": 1701264293178,
+                "accessVisibility": "POSTED",
+                "photos": [],
+                "vodUrl": "s3://zeacon-live-archive/hls/caa7cc4bd7b74da6ae5c68fa85cfa785/index.m3u8",
+                "metadata": {
+                    "metadataList": []
+                },
+                "cta": null,
+                "organizer": {
+                    "id": "2028f2b3-bcc9-484d-beb5-9905a8cd9077",
+                    "businessName": "qunootahmed",
+                    "legalFirstName": "Video Widgets and Players",
+                    "imageUrl": "1727351374_Kayla-Person.jpg",
+                    "description": null
+                },
+                "accessKey": "MTcwMTI2NDI5MzE3OF84ZmUzMGJmNjFlYw==",
+                "archiveId": "caa7cc4bd7b74da6ae5c68fa85cfa785",
+                "archiveName": "Street_Food_in_Peshawar_-_GOLDEN_PULAO_Mountain___Charsi_Tikka_Kabab___Pakistani_Street_Food_Tour!_1701263734431.mp4",
+                "streamArchiveType": "VIDEO",
+                "streamStatus": "ACTIVE"
+            }
+        }
+    ]
+}

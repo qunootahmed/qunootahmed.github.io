@@ -1,0 +1,431 @@
+{
+    "status": "success",
+    "statusCode": "200 OK",
+    "message": "Video widgets fetched - successful",
+    "responseData": [
+        {
+            "id": 490,
+            "uuid": "508c589d-5e10-41a8-9b70-2f020f891a36",
+            "name": "QI - about page",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qualityinnovators.web.app/about"
+                }
+            ],
+            "creationDate": 1738580339000,
+            "modificationDate": 1738665856000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistName": "For colors site"
+        },
+        {
+            "id": 486,
+            "uuid": "d4cc1018-569e-41d9-a5c2-b140df33d1e3",
+            "name": "Environment clone",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qu-environment-clone.web.app"
+                }
+            ],
+            "creationDate": 1738229304000,
+            "modificationDate": 1738653319000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistName": "For colors site"
+        },
+        {
+            "id": 481,
+            "uuid": "03ad5c32-c2ca-4746-95cc-95e8901e36a3",
+            "name": "Quality Innovators Site",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qualityinnovators.web.app"
+                }
+            ],
+            "creationDate": 1737994443000,
+            "modificationDate": 1738580461000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistName": "Qunoot_286"
+        },
+        {
+            "id": 480,
+            "uuid": "880066c1-d8cc-44b3-8279-de5e5a90f4ea",
+            "name": "multiple videos",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://my-single-page-app.web.app"
+                }
+            ],
+            "creationDate": 1737992481000,
+            "modificationDate": 1738648546000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistName": "For colors site"
+        },
+        {
+            "id": 475,
+            "uuid": "7c0d2d56-b206-477d-b8c5-63bbd0786547",
+            "name": "Winter PK",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://winter-pk.web.app"
+                },
+                {
+                    "action": "HIDE",
+                    "url": "https://winter-pk.web.app/checkout"
+                }
+            ],
+            "creationDate": 1736757837000,
+            "modificationDate": 1737993890000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "46318fd3-a832-419f-a962-116b76f778e1",
+            "playlistName": "My Favorite Songs"
+        },
+        {
+            "id": 473,
+            "uuid": "df32db7f-69b7-497b-8b7d-d52c7c253a3b",
+            "name": "SPA - About Page Only",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://my-single-page-app.web.app/about"
+                }
+            ],
+            "creationDate": 1736524624000,
+            "modificationDate": 1738055068000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistName": "Qunoot_286"
+        },
+        {
+            "id": 472,
+            "uuid": "accce99e-1c16-4b69-a484-c47050a14e7d",
+            "name": "ONC NATURAL COLORS",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://colors-clone-site.web.app"
+                }
+            ],
+            "creationDate": 1736501045000,
+            "modificationDate": 1738132226000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "de910b8a-2374-4310-b2f9-eb991b78aff0",
+            "playlistName": "For colors site"
+        },
+        {
+            "id": 471,
+            "uuid": "da5a23cf-6203-4ef1-aae1-4ab7328b7c6a",
+            "name": "whitney howard clone site",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://designs-clone-qu.web.app"
+                }
+            ],
+            "creationDate": 1736491412000,
+            "modificationDate": 1738648075000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "805a2d31bfc",
+                "name": "courage the cowardly dog",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "dc3e4f88ea84405ab6da85c528180697",
+                "archiveName": "Courage_The_Cowardly_Dog___King_Ramses__Curse___Cartoon_Network_1737557832747.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 454,
+            "uuid": "e1e7a5b6-d9e7-42a2-ab71-1f329cb2bfbc",
+            "name": "December 11th Widget",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qunootahmed.github.io/widget-december-11th/*"
+                }
+            ],
+            "creationDate": 1733929060000,
+            "modificationDate": 1738214174000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "0c9aacab-3929-499f-92a2-2d58bb423958",
+            "playlistName": "Qunoot_286"
+        },
+        {
+            "id": 424,
+            "uuid": "09f04681-b967-487f-bf12-b7eb24b4e520",
+            "name": "QU- clone site",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qu-clone-site.web.app"
+                }
+            ],
+            "creationDate": 1733387338000,
+            "modificationDate": 1733388129000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "06b8963de54",
+                "name": "vod with cta",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "bb1a351c90184f05b55f119be6e37a2e",
+                "archiveName": "videoplayback_1732182297978.webm",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 423,
+            "uuid": "fc2db230-f47e-4181-955a-03bdac8b08b1",
+            "name": "Widget for coffee ",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://coffee-site-1.web.app"
+                }
+            ],
+            "creationDate": 1733383439000,
+            "modificationDate": 1735912624000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "7fd5692994c",
+                "name": "portrait",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "abd67c2fbe6e436f868d31b707e2d4c3",
+                "archiveName": "Vianlele_1734082728158.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 421,
+            "uuid": "5a258cff-8a4c-43aa-a165-943b35d693aa",
+            "name": "shop today site",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qunootahmed.github.io/shop-today/*"
+                }
+            ],
+            "creationDate": 1733323040000,
+            "modificationDate": 1738227433000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "cd35babc-4de9-45d1-a7cd-82daf6947a80",
+            "playlistName": "Cypress Tutorials"
+        },
+        {
+            "id": 420,
+            "uuid": "f64f4193-fe45-417b-a67c-c5f6c278586e",
+            "name": "product page for analytics",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qunootahmed.github.io/shop-today/productpage.html"
+                }
+            ],
+            "creationDate": 1733318205000,
+            "modificationDate": 1733318219000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "a5e61dd61c0",
+                "name": "hp- 4 dec",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "6d9159d7d8fc49dea0d8e841164767b1",
+                "archiveName": "A_First_Encounter___Harry_Potter_and_the_Philosopher_s_Stone_1733318017994.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 375,
+            "uuid": "1221c71f-c843-4f3c-a2e2-e5e41693ed11",
+            "name": "ecommerce site specific",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://ecommerce-qunoot.web.app/browse/new/shoes.html*"
+                }
+            ],
+            "creationDate": 1732293162000,
+            "modificationDate": 1732689702000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "df9be88c1ea",
+                "name": "Why does japan work so hard?",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "1de63b2c3cf64b4ca076fc49e78b0c32",
+                "archiveName": "Why_does_Japan_work_so_hard_CNBC_Explains_1732524339664.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 371,
+            "uuid": "d7ea0915-1567-44f8-9505-69b0c370359d",
+            "name": "Kongscave",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://kongscave.com/*"
+                }
+            ],
+            "creationDate": 1732289431000,
+            "modificationDate": 1732289580000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "94407d93fca",
+                "name": "Books by Elif Shafak - Renowned Turkish Author \uD83E\uDDE7\uD83C\uDFAD\uD83C\uDFAA",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "59c18723675d43f28dd086f701851aaa",
+                "archiveName": "_Books_have_changed_my_life.____Writer_Elif_Shafak___Louisiana_Channel_1728479508951.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 356,
+            "uuid": "a3a6d420-d746-4fa7-9559-fccba7445a98",
+            "name": "shopping site 2.0",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://qunootahmed.github.io/shop-today/contactus.html"
+                }
+            ],
+            "creationDate": 1732208775000,
+            "modificationDate": 1734089644000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "1da0b8d8a55",
+                "name": "Festive vibes",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "79a3a7b054c24d788a6970459b79a015",
+                "archiveName": "100608-video-1080_1732206402251.mp4",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 351,
+            "uuid": "aeba35ac-e8f7-4277-8102-c39faef15063",
+            "name": "Incredibly long URL - 1.0",
+            "rules": [
+                {
+                    "action": "HIDE",
+                    "url": "https://www.quora.com/how-long-does-it-usually-take-for-a-website-to-show-up-in-google-after-the-sitemap-is-submitted-and-indexing-is-requested#:~:text=after%20submitting%20a%20sitemap%20and%20requesting%20indexing%20in%20google%2c%20it,quality%2c%20and%20google%27s%20crawl"
+                }
+            ],
+            "creationDate": 1732205327000,
+            "modificationDate": 1738051917000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": "26af3e4c-3d75-4ef3-9b2a-bea40fde7fd5",
+            "playlistName": "24 january"
+        },
+        {
+            "id": 299,
+            "uuid": "76b1ea73-1049-4c91-8a88-e1488ff710d1",
+            "name": "nordstorm specific url",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://www.nordstromrack.com/shop/women/jewelry/fine-jewelry/bracelets"
+                }
+            ],
+            "creationDate": 1732102618000,
+            "modificationDate": 1732182435000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": {
+                "id": "06b8963de54",
+                "name": "vod with cta",
+                "category": "VOD",
+                "photos": [],
+                "streamStatus": "ACTIVE",
+                "archiveId": "bb1a351c90184f05b55f119be6e37a2e",
+                "archiveName": "videoplayback_1732182297978.webm",
+                "streamArchiveType": "VIDEO"
+            },
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 255,
+            "uuid": "bda633e5-0b47-4f72-928b-18ecbff23c0d",
+            "name": "Alkaram",
+            "rules": [
+                {
+                    "action": "HIDE",
+                    "url": "https://www.alkaramstudio.com/collections/table-runner/products/runner-bp-01-yellow"
+                },
+                {
+                    "action": "SHOW",
+                    "url": "https://www.alkaramstudio.com/collections/unstitched"
+                },
+                {
+                    "action": "SHOW",
+                    "url": "https://www.alkaramstudio.com/collections/*"
+                }
+            ],
+            "creationDate": 1732079691000,
+            "modificationDate": 1732111260000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": null,
+            "playlistName": null
+        },
+        {
+            "id": 252,
+            "uuid": "6194dfa5-1c08-48ca-83da-ed26d8480b99",
+            "name": "nordstromrack",
+            "rules": [
+                {
+                    "action": "SHOW",
+                    "url": "https://www.nordstromrack.com/*"
+                }
+            ],
+            "creationDate": 1732027184000,
+            "modificationDate": 1732084046000,
+            "businessAccountId": "8e6b8b84-de2b-4cae-a7d7-d7e67f73847e",
+            "streamDetails": null,
+            "playlistId": null,
+            "playlistName": null
+        }
+    ]
+}
