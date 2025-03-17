@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watch Video - Luxury Timepieces</title>
+    <link rel="stylesheet" href="style.css">
+        <!-- Start of Zeacon Code -->
+        <script type="text/javascript" async="" id="zeacon-sdk"
+        src="https://zeacon.com/sdk/correlator.js?api-key=2028f2b3-bcc9-484d-beb5-9905a8cd9077"></script>
+    <!-- End of Zeacon Code -->
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <h1>Embedded Video</h1>
+        </div>
+    </header>
+    
+    <main>
+        <div class="video-container">
+            <h2>Exclusive Product Showcase</h2>
+            <div class="video-wrapper">
+                <iframe src="https://zeacon.com/player/eb188fa2-f93f-4cda-87cf-5265e39581af" 
+                        title="Zeacon | Embed Video" 
+                        width="640px" height="360px" 
+                        allowfullscreen="" 
+                        style="border:0px"></iframe>
+                <script id="zeacon-sdk-correlation-manager" 
+                        type="text/javascript" 
+                        src="https://zeacon.com/sdk/correlation-manager/bundle.js"></script>
+            </div>
+        </div>
+        
+        <div class="form-container">
+            <h3>Stay Updated</h3>
+            <form id="userInfoForm">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required>
+
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        
+        <div class="subscribe-container">
+            <h3>Subscribe for Updates</h3>
+            <form id="subscribeForm">
+                <label for="subscribeEmail">Email:</label>
+                <input type="email" id="subscribeEmail" name="subscribeEmail" required>
+
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+    </main>
+    
+    <script>
+        document.getElementById("userInfoForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            console.log("User Info Submitted: ", {
+                email: document.getElementById("email").value,
+                phone: document.getElementById("phone").value
+            });
+        });
+        
+        document.getElementById("subscribeForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            console.log("Subscription Email Submitted: ", document.getElementById("subscribeEmail").value);
+        });
+    </script>
+</body>
+</html>
