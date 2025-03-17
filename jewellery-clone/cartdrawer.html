@@ -28,11 +28,20 @@
             top: 0;
             width: 350px;
             height: 100%;
-            background: rgba(255, 255, 255, 0.9);
+            background: rgba(255, 255, 255, 1);
             box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
             transform: translateX(0);
             transition: transform 0.3s ease-in-out;
             overflow-y: auto;
+            border-left: 1px solid #ccc;
+        }
+
+        .drawer__fixed-header {
+            padding: 15px;
+            font-size: 18px;
+            font-weight: bold;
+            background: #fff;
+            border-bottom: 1px solid #ccc;
         }
 
         .drawer_inner {
@@ -42,7 +51,7 @@
         .drawer_footer {
             position: fixed;
             bottom: 0;
-            width: 330px;
+            width: 350px;
             background: white;
             padding: 15px;
             box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
@@ -63,10 +72,6 @@
             background: #2563eb;
         }
     </style>
-    <!-- Start of Zeacon Code -->
-    <script type="text/javascript" async="" id="zeacon-sdk"
-        src="https://licencetotest.com/sdk/correlator.js?api-key=8e6b8b84-de2b-4cae-a7d7-d7e67f73847e"></script>
-    <!-- End of Zeacon Code -->
 </head>
 
 <body>
@@ -75,27 +80,32 @@
         <h2>Checkout Page</h2>
     </div>
 
-    <div class="cartDrawer js-drawer drawer--right drawer--is-open">
+    <div id="CartDrawer" class="cartDrawer drawer--right drawer--has-fixed-footer drawer--is-open">
+        <div class="drawer__fixed-header">CART</div>
         <div class="drawer_inner">
-            <h2>CART</h2>
-            <div class="cart_items">
-                <p>Glock Men's Titanium & Stainless Steel Watch</p>
-                <p>Price: $399.00</p>
-                <p>Quantity: <input type="number" value="3"></p>
+            <div id="CartContainer" class="drawer__cart">
+                <form action="/cart" method="post" novalidate class="cart ajaxcart">
+                    <div class="drawer__inner drawer__inner--has-fixed-footer" style="bottom: 154.163px;">
+                        <div class="cart_items">
+                            <p>Glock Men's Titanium & Stainless Steel Watch</p>
+                            <p>Price: $399.00</p>
+                            <p>Quantity: <input type="number" value="3"></p>
 
-                <p>Serendipity Meditation Ring</p>
-                <p>Price: $239.00</p>
-                <p>Quantity: <input type="number" value="1"></p>
+                            <p>Serendipity Meditation Ring</p>
+                            <p>Price: $239.00</p>
+                            <p>Quantity: <input type="number" value="1"></p>
 
-                <p>Subtotal: $1,436.00</p>
-                <p>Shipping, taxes, and discounts calculated at checkout.</p>
+                            <p>Subtotal: $1,436.00</p>
+                            <p>Shipping, taxes, and discounts calculated at checkout.</p>
+                        </div>
+                        <div class="drawer__footer drawer__footer--fixed appear-animation appear-delay-7" style="height: 154.163px;">
+                            <button type="submit" class="btn btn--full cart_checkout" name="checkout">
+                                CHECK OUT
+                            </button>
+                        </div>
+                    </div>
+                </form>
             </div>
-        </div>
-
-        <div class="drawer_footer">
-            <button type="submit" class="btn btn--full cart_checkout" name="checkout">
-                CHECK OUT
-            </button>
         </div>
     </div>
 
