@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Watch Store</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Start of Zeacon Code -->
+    <script type="text/javascript" async="" id="zeacon-sdk"
+        src="https://zeacon.com/sdk/correlator.js?api-key=2028f2b3-bcc9-484d-beb5-9905a8cd9077"></script>
+    <!-- End of Zeacon Code -->
+</head>
+
+<body>
+    <header>
+        <div class="nav">
+            <h1>Luxury Timepieces</h1>
+        </div>
+    </header>
+
+    <main>
+      <img src="pexels-ferarcosn-190819.jpg" alt="Luxury Watch" style="width: 400px; height: auto; display: block; margin: auto;">
+            <div class="product-details">
+                <h2>Prestige Chronograph</h2>
+                <p class="price">$499.99</p>
+                <p class="description">A high-end chronograph watch with premium craftsmanship, ensuring precision and
+                    style.</p>
+
+                <form id="productForm">
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" name="quantity" min="1" value="1" required>
+
+                    <label for="color">Color:</label>
+                    <select id="color" name="color" required>
+                        <option value="silver">Silver</option>
+                        <option value="black">Black</option>
+                        <option value="gold">Gold</option>
+                    </select>
+
+                    <label for="size">Size:</label>
+                    <select id="size" name="size" required>
+                        <option value="small">Small</option>
+                        <option value="medium">Medium</option>
+                        <option value="large">Large</option>
+                    </select>
+
+                    <div class="button-layer">
+                        <button type="button" id="addToCart">Add to Cart</button>
+                    </div>
+
+                    <div class="checkout-layer">
+                        <button type="button" id="checkout">Proceed to Checkout</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        document.getElementById("addToCart").addEventListener("click", function () {
+            console.log("Add to Cart button clicked.");
+        });
+
+        document.getElementById("checkout").addEventListener("click", function () {
+            console.log("Proceed to Checkout button clicked.");
+        });
+    </script>
+</body>
+
+</html>
