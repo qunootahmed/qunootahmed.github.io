@@ -53,6 +53,35 @@
             font-weight: bold;
             cursor: pointer;
         }
+
+        .subscribe-container {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .subscribe-container h3 {
+            margin-bottom: 5px;
+        }
+
+        .subscribe-container input {
+            width: 80%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .subscribe-container button {
+            background-color: rgb(247, 158, 6);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-left: 10px;
+        }
     </style>
     <script>
         function navigateToCheckout() {
@@ -83,17 +112,13 @@
             </div>
             <h3>Subtotal: $106.99</h3>
             
-            <!-- Form for Email and Phone Input -->
-            <h3>Contact Information</h3>
-            <form>
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-                <br><br>
-                <label for="phone">Phone:</label>
-                <input type="tel" id="phone" name="phone" required>
-                <br><br>
-                <input type="submit" value="Submit">
-            </form>
+            <!-- Email Subscription Form -->
+            <div class="subscribe-container">
+                <h3>Sign Up</h3>
+                <p>Be the first to get special offers and product knowledge – Straight to your inbox</p>
+                <input type="email" placeholder="your@email.com">
+                <button>Subscribe</button>
+            </div>
         </div>
         <div class="sidebar SidebarV2_sidebar__Lo7xD">
             <div data-selector="visual-editor-component" class="w-full">
