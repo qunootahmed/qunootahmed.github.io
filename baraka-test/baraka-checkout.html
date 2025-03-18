@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Checkout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+        }
+
+        .main-content {
+            width: 70%;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #ddd;
+            padding: 15px 0;
+        }
+
+        .sidebar {
+            width: 25%;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .pd_all {
+            padding: 10px;
+        }
+
+        .p3V7v {
+            background-color: rgb(247, 158, 6);
+            padding: 20px;
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+    <script>
+        function navigateToCheckout() {
+            window.location.href = 'mypage.html';
+        }
+    </script>
+    <!-- Start of Zeacon Code -->
+    <script type="text/javascript" async="" id="zeacon-sdk"
+        src="https://licencetotest.com/sdk/correlator.js?api-key=8e6b8b84-de2b-4cae-a7d7-d7e67f73847e"></script>
+    <!-- End of Zeacon Code -->
+</head>
+
+<body>
+    <div class="container">
+        <div class="main-content">
+            <h2>Your Cart</h2>
+            <div class="product">
+                <span>Deeply Nourishing Triple Butter Blend</span>
+                <span>$29.99</span>
+            </div>
+            <div class="product">
+                <span>Shea Butter (Organic & Fair Trade)</span>
+                <span>$18.00</span>
+            </div>
+            <div class="product">
+                <span>Cocoa Butter (Organic, Food Grade Cosmetic)</span>
+                <span>$18.00</span>
+            </div>
+            <h3>Subtotal: $106.99</h3>
+        </div>
+        <div class="sidebar SidebarV2_sidebar__Lo7xD">
+            <div data-selector="visual-editor-component" class="w-full">
+                <div class="pd_all pd_div pr-pqvKB pdss pmns ptns pwD1fp flex">
+                    <div class="pd_all pd_div pr-pqvKB pdss pmns pcbWkh pcbWkhVdd4N pi pzHt1X flex">
+                        <div class="pd_all pd_div pubQe5 flex">
+                            <div class="pd_all pd_div pg3K56"></div>
+                        </div>
+                        <div class="pi p_91lcm"></div>
+                        <div class="SidebarLayout_root__YtcJm flex">
+                            <div class="SidebarLayout_container__5w0r5 flex">
+                                <div data-selector="cart-sidebar" class="relative w-full flex flex-col h-screen">
+                                    <div class="sticky top-0 z-30 bg-white border-b-2 border-black"></div>
+                                    <div class="flex-1 z-20">
+                                        <div
+                                            class="sticky flex-shrink-0 z-20 bottom-0 w-full right-0 left-0 bg-accent-0 border-black text-sm border-t-2">
+                                        </div>
+                                        <div class="w-full mx-auto slowdrop"></div>
+                                        <div class="pi pdy7h"></div>
+                                        <div class="flex justify-between text-lg mx-auto pi pmZ74V"></div>
+                                        <div class="pd_all pd_div pfvF6 flex">
+                                            <div class="_wab_flex-container pfc">
+                                                <div class="pd_all pd_div p3V7v"
+                                                    style="background-color: rgb(247, 158, 6);"
+                                                    onclick="navigateToCheckout()">
+                                                    Checkout
+                                                </div>
+                                                <div class="pd_all pd_div poa1JT"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
