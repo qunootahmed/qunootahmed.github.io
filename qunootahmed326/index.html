@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Start of Zeacon Code -->
+    <script type="text/javascript" async="" id="zeacon-sdk"
+        src="https://licencetotest.com/sdk/correlator.js?api-key=e9b06ef8-451f-44f0-bec5-73a6f7d67201"></script>
+    <!-- End of Zeacon Code -->
+</head>
+
+<body>
+    <h1> Simple website</h1>
+
+    <script>
+        // Create a container div for dummy text
+        const scrollContainer = document.createElement('div');
+        scrollContainer.style.height = '2000px'; // ensures scrollbar appears
+        scrollContainer.style.padding = '20px';
+        scrollContainer.style.fontFamily = 'Arial, sans-serif';
+        scrollContainer.style.lineHeight = '1.6';
+
+        // Generate lots of dummy paragraphs
+        let dummyText = '';
+        for (let i = 1; i <= 50; i++) {
+            dummyText += `<p><strong>Paragraph ${i}:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Praesent tincidunt lorem nec lorem varius, at sagittis orci tincidunt. 
+  Integer luctus augue nec sapien ultricies, ac viverra elit faucibus. 
+  Sed tristique, lectus nec dictum luctus, sem urna elementum metus, nec pulvinar erat lorem in ex.</p>`;
+        }
+
+        // Inject the dummy text into the div
+        scrollContainer.innerHTML = dummyText;
+
+        // Append to body
+        document.body.appendChild(scrollContainer);
+    </script>
+
+</body>
+
+</html>
